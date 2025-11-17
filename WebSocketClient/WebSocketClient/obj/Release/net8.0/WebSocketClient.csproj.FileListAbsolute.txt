@@ -1,0 +1,15 @@
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\bin\Release\net8.0\WebSocketClient.exe
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\bin\Release\net8.0\WebSocketClient.deps.json
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\bin\Release\net8.0\WebSocketClient.runtimeconfig.json
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\bin\Release\net8.0\WebSocketClient.dll
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\bin\Release\net8.0\WebSocketClient.pdb
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.AssemblyInfoInputs.cache
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.AssemblyInfo.cs
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.sourcelink.json
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.dll
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\refint\WebSocketClient.dll
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.pdb
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\WebSocketClient.genruntimeconfig.cache
+C:\Users\sambe\source\repos\WebSocketSolution\WebSocketClient\WebSocketClient\obj\Release\net8.0\ref\WebSocketClient.dll
