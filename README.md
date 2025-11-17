@@ -1,5 +1,6 @@
 ## Structure
 
+```text
 WebSocketSolution/
 ├── WebSocketServer/      (ASP.NET Core Empty)
 │   ├── Program.cs
@@ -9,6 +10,7 @@ WebSocketSolution/
 └── WebSocketClient/      (C# Console App)
     ├── Program.cs
     └── WebSocketClient.csproj
+```
 
 ## Prerequisites
 
