@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|c:\\users\\sambe\\source\\repos\\websocketsolution\\websocketserver\\websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|solutionrelative:websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|c:\\users\\sambe\\source\\repos\\websocketsolution\\websocketserver\\websocketserver\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|solutionrelative:websocketserver\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|c:\\users\\sambe\\source\\repos\\websocketsolution\\websocketserver\\websocketserver\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E380DC9C-CF35-4D73-9406-2273F593AF1E}|WebSocketServer\\WebSocketServer.csproj|solutionrelative:websocketserver\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\README.md",
+              "RelativeDocumentMoniker": "WebSocketServer\\README.md",
+              "ToolTip": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\README.md",
+              "RelativeToolTip": "WebSocketServer\\README.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-17T11:56:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebSocketServer\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\wwwroot\\index.html",
+              "RelativeToolTip": "WebSocketServer\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-17T11:51:14.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\Program.cs",
+              "RelativeDocumentMoniker": "WebSocketServer\\Program.cs",
+              "ToolTip": "C:\\Users\\sambe\\source\\repos\\WebSocketSolution\\WebSocketServer\\WebSocketServer\\Program.cs",
+              "RelativeToolTip": "WebSocketServer\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:46:14.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

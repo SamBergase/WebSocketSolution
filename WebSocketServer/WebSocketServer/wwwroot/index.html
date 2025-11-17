@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebSocket Test</title>
+    </head>
+    <body>
+        <h1>Browser WebSocket Client</h1>
+        <p id="messageLog"></p>
+
+        <script>
+            const msg = document.getElementById("messageLog");
+            // If secure web-sockets, use wss://...
+            const ws = new WebSocket("ws://localhost:5096/ws");
+            ws.onopen = () => {
+                msg.textContent = "Connected to server";
+                ws.send("ping");
+            };
+
+            ws.onmessage = (event) => {
+                msg.textContent = event.data;
+                if (event.data === "pong") {
+                    ws.send("/work/start");
+                }
+            };
+
+            ws.onclose = () => msg.textContent = "Disconnected";
+            ws.onerror = (err) => msg.textContent = "WebSocket error";
+        </script>
+    </body>
+</html>
